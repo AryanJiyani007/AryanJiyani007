@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AryanJiyani007<br>👀 I’m interested in software development, data structures and algorithms, machine learning, and competitive programming.<br>🌱 I’m currently learning advanced data structures, algorithms, and exploring machine learning techniques.<br>💞️ I’m looking to collaborate on open-source projects and algorithm challenges.<br>📫 How to reach me: aryanjiyani11@gmail.com or via LinkedIn www.linkedin.com/in/aryan-jiyani/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am a computer science student with a passion for problem-solving and coding.
+👋 Hi, I’m @AryanJiyani007<br>👀 I’m interested in software development, data structures and algorithms, machine learning, and competitive programming.<br>🌱 I’m currently learning advanced data structures, algorithms, and exploring machine learning techniques.<br>💞️ I’m looking to collaborate on open-source projects and algorithm challenges.<br>📫 How to reach me: aryanjiyani11@gmail.com or via LinkedIn www.linkedin.com/in/aryan-jiyani-788aa6286/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am a computer science student with a passion for problem-solving and coding.
 
 
 # 💻 Tech Stack:
